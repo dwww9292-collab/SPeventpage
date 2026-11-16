@@ -3,6 +3,9 @@
 `https://thehyoosik-bow.preview.webdot.co.kr/` 프리뷰 사이트를 원본 그대로 가져온 소스입니다.
 HTML·이미지 모두 서버에서 받은 바이트 그대로이며(SHA-256 검증 완료), 경로는 전부 상대경로라 별도 수정 없이 바로 동작합니다.
 
+**테스트 페이지 (GitHub Pages):** https://dwww9292-collab.github.io/SPeventpage/
+`main` 브랜치에 푸시하면 1~2분 뒤 자동으로 반영됩니다.
+
 ## 페이지
 
 | 파일 | 내용 |
